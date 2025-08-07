@@ -1,150 +1,74 @@
-\<div align="center"\>
-  \<br /\>
-    \<a href="[https://youtu.be/B91wc5dCEBA](https://youtu.be/B91wc5dCEBA)" target="\_blank"\>
-    \</a\>
-  \<br /\>
+NyaaySaarthi - AI-Powered Chatbot for the Department of Justice
+Introduction
+NyaaySaarthi is an interactive AI-powered chatbot and virtual assistant designed for the Department of Justice (DoJ) website. This project, developed for the Smart India Hackathon 2024 by Team Vande Technam, aims to enhance user access to various services and information provided by the DoJ. The chatbot provides accurate, real-time responses to queries regarding judicial infrastructure, court cases, e-Services, and legal aid.
 
-  \<div\>
-    \<img src="[https://img.shields.io/badge/-Vite-black?style=for-the-badge\&logoColor=white\&logo=vite\&color=646CFF](https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF)" alt="vite" /\>
-    \<img src="[https://img.shields.io/badge/-React\_JS-black?style=for-the-badge\&logoColor=white\&logo=react\&color=61DAFB](https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB)" alt="react.js" /\>
-    \<img src="[https://img.shields.io/badge/-Tailwind\_CSS-black?style=for-the-badge\&logoColor=white\&logo=tailwindcss\&color=06B6D4](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4)" alt="tailwindcss" /\>
-  \</div\>
+Features
+Multilingual Support: Supports more than 15 Indian languages.
 
-  \<h3 align="center"\>Modern UI/UX website\</h3\>
+Voice Commands: Users can interact with the chatbot using voice commands.
 
-   \<div align="center"\>
-     Build this project step by step with our detailed tutorial on \<a href="[https://www.youtube.com/@javascriptmastery/videos](https://www.youtube.com/@javascriptmastery/videos)" target="\_blank"\>\<b\>JavaScript Mastery\</b\>\</a\> YouTube.
-    \</div\>
+Platform Compatibility: Compatible with various web and mobile platforms.
 
-\</div\>
+Continuous Learning: The chatbot continuously learns from user interactions to improve its responses and accuracy.
 
-## 📋 \<a name="table"\>Table of Contents\</a\>
+Security & Privacy: Prioritizes data privacy and security with strong encryption and compliance with data protection laws.
 
-1.  🤖 [Introduction](https://www.google.com/search?q=%23introduction)
-2.  ⚙️ [Tech Stack](https://www.google.com/search?q=%23tech-stack)
-3.  🔋 [Features](https://www.google.com/search?q=%23features)
-4.  🤸 [Quick Start](https://www.google.com/search?q=%23quick-start)
-5.  🕸️ [Snippets](https://www.google.com/search?q=%23snippets)
-6.  🔗 [Links](https://www.google.com/search?q=%23links)
-7.  🚀 [More](https://www.google.com/search?q=%23more)
+Real-time Data: Provides real-time data accessibility and timely alerts and reminders.
 
-## 🚨 Tutorial
+Tele-law Services: Offers information and guidance on tele-law services, connecting users with remote legal assistance.
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, \<a href="[https://www.youtube.com/@javascriptmastery/videos](https://www.youtube.com/@javascriptmastery/videos)" target="\_blank"\>\<b\>JavaScript Mastery\</b\>\</a\>.
+PDF Export: Allows users to download results and information as a PDF file.
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner\!
+E-governance Integration: Seamless integration with e-governance systems.
 
-\<a href="[https://youtu.be/B91wc5dCEBA](https://youtu.be/B91wc5dCEBA)" target="\_blank"\>\<img src="[https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d](https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d)" /\>\</a\>
+Technical Approach
+Tech Stack
+UI: React.js
 
-## \<a name="introduction"\>🤖 Introduction\</a\>
+Server: Express
 
-Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
+LLM: GPT 3.5 Turbo
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+Database: SQL
 
-\<a href="[https://discord.com/invite/n6EdbFJ](https://discord.com/invite/n6EdbFJ)" target="\_blank"\>\<img src="[https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e](https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e)" /\>\</a\>
+Open Source Framework: RASA
 
-## \<a name="tech-stack"\>⚙️ Tech Stack\</a\>
+Deployment: AWS
 
-  - Vite
-  - React.js
-  - Tailwind CSS
+Libraries & APIs
+Voice Recognition: Whisper API
 
-## \<a name="features"\>🔋 Features\</a\>
+Image Recognition: Tesseract OCR
 
-👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
+PDF Handling: PyPDF2
 
-👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
+Machine Learning: TensorFlow, Pandas
 
-👉 **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
+Impact and Benefits
+Social
+Improved access to legal aids.
 
-👉 **Latest UI Trends**: Incorporates modern design elements such as bento grids.
+Empowerment through self-service.
 
-👉 **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+Equal access to everyone, reducing the need for travel to court.
 
-👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
+Economic
+Reduces operational costs for the Department of Justice.
 
-and many more, including code architecture and reusability
+Improves productivity of staff.
 
-## \<a name="quick-start"\>🤸 Quick Start\</a\>
+Provides cost savings by optimizing human resources.
 
-Follow these steps to set up the project locally on your machine.
+Environmental
+Reduction in paper usage.
 
-**Prerequisites**
+Decreased carbon footprints due to less physical travel.
 
-Make sure you have the following installed on your machine:
+Optimized resource usage.
 
-  - [Git](https://git-scm.com/)
-  - [Node.js](https://nodejs.org/en)
-  - [npm](https://www.npmjs.com/) (Node Package Manager)
+Team
+Team ID: 36091
 
-**Cloning the Repository**
+Team Name: Vande Technam
 
-```bash
-git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
-cd brainwave
-```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
-
-**Running the Project**
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](https://www.google.com/search?q=http://localhost:5173) in your browser to view the project.
-
-## \<a name="snippets"\>🕸️ Snippets\</a\>
-
-\<details\>
-\<summary\>\<code\>.vscode/settings.json\</code\>\</summary\>
-
-```json
-{
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": "explicit",
-    "source.addMissingImports": "explicit"
-  },
-  "prettier.tabWidth": 2,
-  "prettier.useTabs": false,
-  "prettier.semi": true,
-  "prettier.singleQuote": false,
-  "prettier.jsxSingleQuote": false,
-  "prettier.trailingComma": "es5",
-  "prettier.arrowParens": "always",
-  "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[css]": {
-    "editor.defaultFormatter": "vscode.css-language-features"
-  },
-  "[svg]": {
-    "editor.defaultFormatter": "jock.svg"
-  }
-}
-```
-
-\</details\>
-
-\<details\>
-\<summary\>\<code\>tailwind.config.js\</code\>\</summary\>
-
-```javascript
-/** @type {import('tailwindcss').Config} */
-import { fontFamily } from "tailwindcss/defaultTheme";
-import plugin from "tailwindcss/plugin";
-
-export default {
-  content: [
-```
-
-\</details\>
+Problem Statement ID: 1700
